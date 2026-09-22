@@ -9,12 +9,8 @@ Técnico Superior en Desarrollo de Aplicaciones Web (DAW) centrado en la creaci�
 *   **Bases de Datos:** PostgreSQL, MySQL.
 *   **Herramientas & CI/CD:** Git, GitHub Actions, Docker, Vercel.
 
-## 📈 Actividad y Métricas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=robertorayo&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
-
 ## 📫 Contacto
 
 *   **LinkedIn:** https://www.linkedin.com/in/roberto-borrallo-%C3%A1lvarez-42a5b2403?utm_source=share_via&utm_content=profile&utm_medium=member_android
 *   **Email:** robertobamym@gmail.com
-*   [![Portfolio Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertorayo&repo=portfolio&theme=transparent&hide_border=true&title_color=58A6FF)](https://github.com/robertorayo/portfolio)
+*   **Portfolio** https://github-readme-stats.vercel.app/api/pin/?username=robertorayo&repo=portfolio&theme=transparent&hide_border=true&title_color=58A6FF)](https://github.com/robertorayo/portfolio
