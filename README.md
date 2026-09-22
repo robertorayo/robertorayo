@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Roberto Borrallo
 
-<!--
-**robertorayo/robertorayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico Superior en Desarrollo de Aplicaciones Web (DAW) centrado en la creación de interfaces interactivas, visualización de datos y el desarrollo de plataformas web.
 
-Here are some ideas to get you started:
+## 🛠️ Stack Tecnológico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
+*   **Backend:** Node.js, Express.
+*   **Bases de Datos:** PostgreSQL, MySQL.
+*   **Herramientas & CI/CD:** Git, GitHub Actions, Docker, Vercel.
+
+## 📈 Actividad y Métricas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=robertorayo&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
+
+## 📫 Contacto
+
+*   **LinkedIn:** https://www.linkedin.com/in/roberto-borrallo-%C3%A1lvarez-42a5b2403?utm_source=share_via&utm_content=profile&utm_medium=member_android
+*   **Email:** robertobamym@gmail.com
+*   [![Portfolio Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=robertorayo&repo=portfolio&theme=transparent&hide_border=true&title_color=58A6FF)](https://github.com/robertorayo/portfolio)
