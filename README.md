@@ -13,4 +13,4 @@ T√©cnico Superior en Desarrollo de Aplicaciones Web (DAW) centrado en la creaci√
 
 *   **LinkedIn:** https://www.linkedin.com/in/roberto-borrallo-%C3%A1lvarez-42a5b2403?utm_source=share_via&utm_content=profile&utm_medium=member_android
 *   **Email:** robertobamym@gmail.com
-*   **Portfolio** https://github-readme-stats.vercel.app/api/pin/?username=robertorayo&repo=portfolio&theme=transparent&hide_border=true&title_color=58A6FF)](https://github.com/robertorayo/portfolio
+*   **Portfolio** (https://github-readme-stats.vercel.app/api/pin/?username=robertorayo&repo=portfolio&theme=transparent&hide_border=true&title_color=58A6FF)](https://github.com/robertorayo/portfolio)
