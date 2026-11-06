@@ -1,16 +1,16 @@
-# Hola, soy Roberto Borrallo
+# Roberto Borrallo Álvarez
 
-Técnico Superior en Desarrollo de Aplicaciones Web (DAW) centrado en la creación de interfaces interactivas, visualización de datos y el desarrollo de plataformas web.
+Desarrollador web full-stack. Interfaces con React y TypeScript, bases de datos relacionales con seguridad por filas, y experimentos visuales con canvas y WebGL.
 
-## 🛠️ Stack Tecnológico
+## Proyectos
+- **[DistribuTech Pro](https://github.com/robertorayo/DistribuTech-Pro):** plataforma B2B de cotizaciones con control de stock. React, TypeScript, Supabase (PostgreSQL con RLS). [Demo](https://distributech-pro.vercel.app)
+- **[Portfolio](https://github.com/robertorayo/portfolio):** web con carrusel 3D en Three.js y animaciones con GSAP.
+- **[Shenron](https://github.com/robertorayo/ShenronWebSite):** experiencia visual basada en secuencias de imágenes.
 
-*   **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
-*   **Backend:** Node.js, Express.
-*   **Bases de Datos:** PostgreSQL, MySQL.
-*   **Herramientas & CI/CD:** Git, GitHub Actions, Docker, Vercel.
+## Stack
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS, HTML, CSS, JavaScript, Three.js
+- **Datos y backend:** PostgreSQL, Supabase, SQL, Java (JDBC, Hibernate)
+- **Herramientas:** Git, GitHub Actions, Maven, JUnit, Vercel
 
-## 📫 Contacto
-
-* **LinkedIn:** [Roberto Borrallo](https://www.linkedin.com/in/roberto-borrallo-%C3%A1lvarez-42a5b2403)
-* **Email:** [robertobamym@gmail.com](mailto:robertobamym@gmail.com)
-* **Portfolio:** [Visitar mi portfolio web](https://portfolio-eight-psi-g07adxw176.vercel.app/)
+## Contacto
+[LinkedIn](https://www.linkedin.com/in/roberto-borrallo-%C3%A1lvarez-42a5b2403) · [Portfolio](https://portfolio-eight-psi-g07adxw176.vercel.app/) · robertobamym@gmail.com
