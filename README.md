@@ -13,4 +13,4 @@ Desarrollador web full-stack. Interfaces con React y TypeScript, bases de datos 
 - **Herramientas:** Git, GitHub Actions, Maven, JUnit, Vercel
 
 ## Contacto
-[LinkedIn](https://www.linkedin.com/in/roberto-borrallo-%C3%A1lvarez-42a5b2403) · [Portfolio](https://portfolio-eight-psi-g07adxw176.vercel.app/) · robertobamym@gmail.com
+[LinkedIn](https://www.linkedin.com/in/roberto-borrallo-alvarez) · [Portfolio](https://portfolio-eight-psi-g07adxw176.vercel.app/) · robertobamym@gmail.com
