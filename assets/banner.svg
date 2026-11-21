@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="t d">
+  <title id="t">Roberto Borrallo Álvarez · Desarrollador web full-stack</title>
+  <desc id="d">Cabecera monocroma con el nombre y una línea de terminal que se escribe sola: React, TypeScript, Node.js y Laravel; APIs y bases de datos con seguridad por filas; asistentes con IA y experimentos visuales.</desc>
+  <defs>
+    <!-- Paleta del portfolio: bg-base, bg-surface, text-primary, text-secondary, text-muted y text-dim -->
+    <linearGradient id="fondo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06070a"/>
+      <stop offset="1" stop-color="#0c0e13"/>
+    </linearGradient>
+    <radialGradient id="brillo" cx=".82" cy="0" r=".6">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nombre" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".7" stop-color="#cbd2de"/>
+      <stop offset="1" stop-color="#8b95a7"/>
+    </linearGradient>
+    <linearGradient id="linea" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="rejilla" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <clipPath id="marco"><rect width="1280" height="300" rx="16"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; }
+    .sans { font-family: 'Outfit', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+
+    /* Tres frases que se escriben y se borran en un ciclo de 12 s; el cursor sigue el final de cada una */
+    .frase { clip-path: inset(0 100% 0 0); animation: 12s linear infinite; }
+    .f0 { animation-name: f0; }
+    .f1 { animation-name: f1; }
+    .f2 { animation-name: f2; }
+    @keyframes f0 { 0% { clip-path: inset(0 100% 0 0); } 13.3%, 26.7% { clip-path: inset(0 0 0 0); } 30%, 100% { clip-path: inset(0 100% 0 0); } }
+    @keyframes f1 { 0%, 33.3% { clip-path: inset(0 100% 0 0); } 46.7%, 60% { clip-path: inset(0 0 0 0); } 63.3%, 100% { clip-path: inset(0 100% 0 0); } }
+    @keyframes f2 { 0%, 66.7% { clip-path: inset(0 100% 0 0); } 80%, 93.3% { clip-path: inset(0 0 0 0); } 96.7%, 100% { clip-path: inset(0 100% 0 0); } }
+
+    .cursor { animation: avance 12s linear infinite, parpadeo 1s steps(1) infinite; }
+    @keyframes avance {
+      0% { transform: translateX(0); }
+      13.3%, 26.7% { transform: translateX(456px); }
+      30%, 33.3% { transform: translateX(0); }
+      46.7%, 60% { transform: translateX(540px); }
+      63.3%, 66.7% { transform: translateX(0); }
+      80%, 93.3% { transform: translateX(492px); }
+      96.7%, 100% { transform: translateX(0); }
+    }
+    @keyframes parpadeo { 50% { opacity: 0; } }
+
+    /* Sin animación: se queda la primera frase escrita */
+    @media (prefers-reduced-motion: reduce) {
+      .frase, .cursor { animation: none; }
+      .f0 { clip-path: none; }
+      .f1, .f2 { display: none; }
+      .cursor { transform: translateX(456px); }
+    }
+  </style>
+
+  <g clip-path="url(#marco)">
+    <rect width="1280" height="300" fill="url(#fondo)"/>
+    <rect width="1280" height="300" fill="url(#rejilla)"/>
+    <rect width="1280" height="300" fill="url(#brillo)"/>
+    <rect x="120" y="299" width="1040" height="1" fill="url(#linea)"/>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="299" rx="16" fill="none" stroke="#ffffff" stroke-opacity=".13"/>
+
+  <text x="100" y="92" class="mono" font-size="15" font-weight="600" letter-spacing="4" fill="#8b95a7">PORTFOLIO · DESARROLLADOR FULL-STACK</text>
+  <text x="96" y="166" class="sans" font-size="66" font-weight="700" letter-spacing="-1.5" fill="url(#nombre)">Roberto Borrallo Álvarez</text>
+
+  <g class="mono" font-size="22">
+    <text x="100" y="222" fill="#4f5868">&gt;</text>
+    <text x="130" y="222" class="frase f0" fill="#cbd2de" textLength="456" lengthAdjust="spacingAndGlyphs">React · TypeScript · Node.js · Laravel</text>
+    <text x="130" y="222" class="frase f1" fill="#cbd2de" textLength="540" lengthAdjust="spacingAndGlyphs">APIs y bases de datos con seguridad por filas</text>
+    <text x="130" y="222" class="frase f2" fill="#cbd2de" textLength="492" lengthAdjust="spacingAndGlyphs">asistentes con IA y experimentos visuales</text>
+    <rect x="134" y="203" width="11" height="24" fill="#ffffff" class="cursor"/>
+  </g>
+</svg>
