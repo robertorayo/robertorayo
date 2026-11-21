@@ -6,7 +6,7 @@ Desarrollador web full-stack. Interfaces con React y TypeScript, APIs en Node.js
 - **[DistribuTech Pro](https://github.com/robertorayo/DistribuTech-Pro):** plataforma B2B de cotizaciones con control de stock. React, TypeScript, Supabase (PostgreSQL con RLS). [Demo](https://distributech-pro.vercel.app)
 - **[Agente de citas con IA](https://github.com/robertorayo/agente-citas-telegram):** asistente para un centro médico ficticio que atiende por Telegram y por chat web, reserva y cancela citas con herramientas y pasa la conversación a una persona cuando hace falta, con un panel de recepción que cualquiera puede probar en modo demo. Motor en Node.js y TypeScript (grammY, websockets) y API en PHP con Laravel, unidos por contratos JSON (OpenAPI y JSON Schema). [Demo](https://agente-citas-telegram.onrender.com) · [Panel (demo)](https://agente-citas-telegram.onrender.com/panel/?demo) · [Telegram](https://t.me/turnos_demobot)
 - **[Portfolio](https://github.com/robertorayo/portfolio):** web con carrusel 3D en Three.js y animaciones con GSAP.
-- **[Shenron](https://github.com/robertorayo/ShenronWebSite):** experiencia visual basada en secuencias de imágenes.
+- **[Shenron](https://github.com/robertorayo/ShenronWebSite):** web narrativa guiada por el scroll (canvas) con un oráculo con IA: el dragón responde a cada deseo con su propia voz. Funciones serverless en Vercel. [Web](https://shenronwebsite.vercel.app)
 
 ## Stack
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS, HTML, CSS, JavaScript, Three.js
