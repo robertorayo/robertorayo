@@ -1,4 +1,4 @@
-<a href="https://portfolio-eight-psi-g07adxw176.vercel.app/">
+<a href="https://roberto-borrallo.vercel.app/">
   <img src="assets/banner.svg" alt="Roberto Borrallo Álvarez · Desarrollador web full-stack" width="100%">
 </a>
 
@@ -41,11 +41,11 @@ Desarrollador web full-stack. Interfaces con React y TypeScript, APIs en Node.js
       <img src="https://img.shields.io/badge/Three.js-14171e?style=flat-square&logo=threedotjs&logoColor=cbd2de" alt="Three.js">
       <img src="https://img.shields.io/badge/GSAP-14171e?style=flat-square&logo=greensock&logoColor=cbd2de" alt="GSAP">
       <img src="https://img.shields.io/badge/JavaScript-14171e?style=flat-square&logo=javascript&logoColor=cbd2de" alt="JavaScript">
-      <p>Web con carrusel 3D en Three.js y animaciones con GSAP.</p>
-      <a href="https://portfolio-eight-psi-g07adxw176.vercel.app/">Web</a> · <a href="https://github.com/robertorayo/portfolio">Código</a>
+      <p>Web con carrusel 3D en Three.js, animaciones con GSAP y cristal líquido con filtros SVG.</p>
+      <a href="https://roberto-borrallo.vercel.app/">Web</a> · <a href="https://github.com/robertorayo/portfolio">Código</a>
     </td>
     <td width="52%">
-      <a href="https://portfolio-eight-psi-g07adxw176.vercel.app/"><img src="assets/portfolio.png" alt="Portada del portfolio"></a>
+      <a href="https://roberto-borrallo.vercel.app/"><img src="assets/portfolio.png" alt="Portada del portfolio"></a>
     </td>
   </tr>
   <tr>
