@@ -45,7 +45,7 @@ Desarrollador web full-stack. Interfaces con React y TypeScript, APIs en Node.js
       <a href="https://roberto-borrallo.vercel.app/">Web</a> · <a href="https://github.com/robertorayo/portfolio">Código</a>
     </td>
     <td width="52%">
-      <a href="https://roberto-borrallo.vercel.app/"><img src="assets/portfolio.png" alt="Portada del portfolio"></a>
+      <a href="https://roberto-borrallo.vercel.app/"><img src="assets/portfolio.jpg" alt="Portada del portfolio: carrusel 3D y botones de cristal líquido"></a>
     </td>
   </tr>
   <tr>
