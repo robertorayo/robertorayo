@@ -2,8 +2,6 @@
   <img src="assets/banner.svg" alt="Roberto Borrallo Álvarez · Desarrollador web full-stack" width="100%">
 </a>
 
-Desarrollador web full-stack. Interfaces con React y TypeScript, APIs en Node.js y Laravel, bases de datos relacionales con seguridad por filas, asistentes conversacionales con IA y experimentos visuales con canvas y WebGL.
-
 ## Proyectos
 
 <table>
@@ -66,14 +64,61 @@ Desarrollador web full-stack. Interfaces con React y TypeScript, APIs en Node.js
 ## Stack
 
 <table>
-  <tr><td><b>Frontend</b></td><td>React, TypeScript, Vite, Tailwind CSS, HTML, CSS, JavaScript, Three.js</td></tr>
-  <tr><td><b>Datos y backend</b></td><td>Node.js, PHP (Laravel), PostgreSQL, Supabase, SQL, Java (JDBC, Hibernate), Python</td></tr>
-  <tr><td><b>IA y bots</b></td><td>Modelos de lenguaje con herramientas, bots de Telegram (grammY)</td></tr>
-  <tr><td><b>Herramientas</b></td><td>Git, GitHub Actions, Docker, Pest, Maven, JUnit, Vercel, Render</td></tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
+      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Datos y backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+      <img src="https://img.shields.io/badge/SQL-4f5868?style=for-the-badge" alt="SQL">
+      <img src="https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Hibernate-59666c?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+      <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td><b>IA y bots</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LLM_con_herramientas-4f5868?style=for-the-badge" alt="Modelos de lenguaje con herramientas">
+      <img src="https://img.shields.io/badge/Telegram_·_grammY-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Bots de Telegram con grammY">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Herramientas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Pest-f472b6?style=for-the-badge" alt="Pest">
+      <img src="https://img.shields.io/badge/Maven-c71a36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+      <img src="https://img.shields.io/badge/JUnit-25a162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+    </td>
+  </tr>
 </table>
+
+<br>
+
+<img src="assets/lenguajes.svg" alt="Porcentaje de cada lenguaje en mis repositorios públicos" width="100%">
 
 ## Contacto
 
-<a href="https://www.linkedin.com/in/roberto-borrallo-alvarez"><img src="https://img.shields.io/badge/LinkedIn-14171e?style=for-the-badge&logo=linkedin&logoColor=cbd2de" alt="LinkedIn"></a>
-<a href="https://roberto-borrallo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14171e?style=for-the-badge" alt="Portfolio"></a>
-<a href="mailto:robertobamym@gmail.com"><img src="https://img.shields.io/badge/robertobamym@gmail.com-14171e?style=for-the-badge" alt="Correo: robertobamym@gmail.com"></a>
+<a href="https://www.linkedin.com/in/roberto-borrallo-alvarez"><img src="assets/contacto-linkedin.svg" alt="LinkedIn: roberto-borrallo-alvarez"></a>
+<a href="https://roberto-borrallo.vercel.app/"><img src="assets/contacto-portfolio.svg" alt="Portfolio: roberto-borrallo.vercel.app"></a>
+<a href="mailto:robertobamym@gmail.com"><img src="assets/contacto-correo.svg" alt="Correo: robertobamym@gmail.com"></a>
